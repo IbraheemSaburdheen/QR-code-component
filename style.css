@@ -25,6 +25,7 @@ body{
     max-width: 360px;
     margin:0 auto;
     
+    
 
 
 }
@@ -43,6 +44,7 @@ body{
     text-align: center;
     padding: 18px;
     margin: 0 1em;
+    box-shadow: 3px solid black;
 
 
 }
